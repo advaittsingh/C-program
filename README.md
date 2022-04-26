@@ -1,2 +1,3 @@
 # C-program
-Project for cla 1
+
+In this program we can convert miles and yards into kilometers.
